@@ -41,3 +41,5 @@ Identify top neighborhoods to invest in or promote based on availability and dem
 
 Improve customer satisfaction by learning from high-performing hosts.
 ![airbnb dashoard screenshot](https://github.com/user-attachments/assets/681dffe9-31a7-4a17-83cf-edfad26ccc89)
+![Screenshot (118)](https://github.com/user-attachments/assets/86bf50b3-a609-4cbc-9e47-de2967b373f4)
+
